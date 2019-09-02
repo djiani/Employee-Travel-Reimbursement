@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_official_place_to_visit_2" label="Official Place of Visit" language="en" table="x_394636_employee_travel_reimboursement">
+    <sys_documentation element="u_full_justification" label="Full Justifcation" language="en" table="x_394636_employee_travel_reimboursement">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_official_place_to_visit_2</element>
+            <element>u_full_justification</element>
             <help/>
             <hint/>
-            <label>Official Place of Visit</label>
+            <label>Full Justifcation</label>
             <language>en</language>
             <name>x_394636_employee_travel_reimboursement</name>
-            <plural>Official Place of Visits</plural>
+            <plural>Full Justifcations</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-31 20:24:23</sys_created_on>
-            <sys_id>1620d88bdbaf33001f55f26b6896197e</sys_id>
+            <sys_created_on>2019-09-01 22:48:06</sys_created_on>
+            <sys_id>4bf8c847dbaf33001f55f26b689619b4</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Official Place of Visit</sys_name>
+            <sys_name>Full Justifcation</sys_name>
             <sys_package display_value="Employee-Travel-Reimbursement" source="x_394636_employee">0837162adb2333001f55f26b689619a6</sys_package>
             <sys_policy/>
             <sys_scope display_value="Employee-Travel-Reimbursement">0837162adb2333001f55f26b689619a6</sys_scope>
-            <sys_update_name>sys_documentation_x_394636_employee_travel_reimboursement_u_official_place_to_visit_2_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_394636_employee_travel_reimboursement_u_full_justification_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-31 20:24:23</sys_updated_on>
+            <sys_updated_on>2019-09-01 22:48:06</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
