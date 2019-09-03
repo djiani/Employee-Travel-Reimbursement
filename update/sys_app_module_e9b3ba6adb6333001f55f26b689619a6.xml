@@ -20,14 +20,14 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>admin,approval_admin,itil_admin,x_394636_employee.travel_reimboursement_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-31 22:09:50</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e9b3ba6adb6333001f55f26b689619a6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Closed</sys_name>
         <sys_overrides/>
         <sys_package display_value="Employee-Travel-Reimbursement" source="x_394636_employee">0837162adb2333001f55f26b689619a6</sys_package>
@@ -35,7 +35,7 @@
         <sys_scope display_value="Employee-Travel-Reimbursement">0837162adb2333001f55f26b689619a6</sys_scope>
         <sys_update_name>sys_app_module_e9b3ba6adb6333001f55f26b689619a6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-31 22:09:50</sys_updated_on>
+        <sys_updated_on>2019-09-02 20:30:57</sys_updated_on>
         <timeline_page/>
         <title>Closed</title>
         <uncancelable>false</uncancelable>

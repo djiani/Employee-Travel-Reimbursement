@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Travel_Reimboursement" max_length="40" name="x_394636_employee_travel_reimboursement" type="collection">
+    <element extends="task" label="Travel_Reimboursement" max_length="40" name="x_394636_employee_travel_reimboursement" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Others" max_length="40" name="others" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="6816f79cc0a8016401c5a33be04be441" label="Employee" mandatory="true" max_length="32" name="u_employee_1" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="200" label="Expenses Type" mandatory="true" max_length="40" name="u_expenses_type" type="float"/>

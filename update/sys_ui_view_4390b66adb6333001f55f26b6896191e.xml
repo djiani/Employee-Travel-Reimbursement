@@ -3,19 +3,19 @@
         <group/>
         <hidden>false</hidden>
         <name>Manager</name>
-        <roles/>
+        <roles>approval_admin</roles>
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-31 21:43:30</sys_created_on>
         <sys_id>4390b66adb6333001f55f26b6896191e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Manager</sys_name>
         <sys_package display_value="Employee-Travel-Reimbursement" source="x_394636_employee">0837162adb2333001f55f26b689619a6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Employee-Travel-Reimbursement">0837162adb2333001f55f26b689619a6</sys_scope>
         <sys_update_name>sys_ui_view_4390b66adb6333001f55f26b6896191e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-31 21:43:30</sys_updated_on>
+        <sys_updated_on>2019-09-02 19:45:41</sys_updated_on>
         <title>Manager</title>
         <user/>
     </sys_ui_view>
